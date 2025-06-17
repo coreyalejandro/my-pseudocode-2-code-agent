@@ -1,0 +1,15 @@
+.accessible-select-container {
+  /* Container styles */
+  margin-bottom: 1rem;
+}
+
+.accessible-select-label {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.select-description {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "my-pseudocode-2-code-agent",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "next": "14.2.30",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "mermaid": "^10.9.0",
+    "tesseract.js": "^4.0.2",
+    "formidable": "^2.0.1",
+    "openai": "^4.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
